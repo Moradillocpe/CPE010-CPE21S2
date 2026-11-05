@@ -17,31 +17,63 @@
 
 # 💫 About Me:
 Hi! I am Eunice E. Moradillo, a Computer Engineering student at Technological Institute of the Philippines. who loves building projects, learning new technologies, and solving real-world problems. I am currently studying with C++ and  Python. Welcome to my GitHub and feel free to explore my work!
+<h1 align="center">💻 CPE010 — Data Structures and Algorithms</h1>
 
-<h3 id="-quick-facts">✨ Quick Facts</h3>
-<ul>
-<li>👨🏽‍💻 A Computer Engineering Student.</li>
-<li>🌱 I’m currently learning C++ and Python.</li>
-</ul>
-<!--- ⚡️ Fun-Fact: I sleep at 12am to wake up at 3am 🙃. -->
-<ul>
-<li>🎿 Hobbies other than coding : Playing online games, eating, reading and art stuff.</li>
-</ul>
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-Eun-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Student: Eun"/>
+  <img src="https://img.shields.io/badge/Program-Computer%20Engineering-0ea5e9?style=for-the-badge" alt="Program"/>
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+```text
+   ┌──────────────────────────────┐        ┌────────────────────────┐
+   │ ● ● ●        main.cpp        │        │ ● ● ●     graph.py     │
+   ├──────────────────────────────┤        ├────────────────────────┤
+   │ #include <iostream>          │        │ graph = {              │
+   │ using namespace std;         │        │   'A': ['B', 'C'],     │
+   │                              │        │   'B': ['D'],          │
+   │ int main() {                 │        │   'C': ['D'],          │
+   │   cout << "Hello, DSA!";     │        │   'D': []              │
+   │   return 0;                  │        │ }                      │
+   │ }                            │        │ # BFS / DFS ready 🚀   │
+   └──────────────┬───────────────┘        └───────────┬────────────┘
+              ┌───┴───┐                           ┌────┴────┐
+          ────┴───────┴────                   ────┴─────────┴────
+```
+-
 
-# 🌐 Socials:
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just message me.
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qemoradillo@tip.edu.ph) 
+## 🎯 Course Intended Learning Outcomes (CILO)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Moradillocpe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Moradillocpe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moradillocpe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+By the end of this course, I should be able to:
+
+| # | Course Intended Learning Outcome |
+|---|----------------------------------|
+| **CILO 1** | Explain and apply fundamental data structures such as arrays, linked lists, stacks, and queues. |
+| **CILO 2** | Implement non-linear data structures such as trees and graphs, including traversal techniques (DFS and BFS). |
+| **CILO 3** | Analyze the time and space complexity of algorithms using Big-O notation. |
+| **CILO 4** | Apply searching and sorting algorithms and choose the right one for a given problem. |
+| **CILO 5** | Use algorithmic strategies (e.g., recursion, dynamic programming) to design efficient solutions. |
+| **CILO 6** | Translate data structure and algorithm concepts into working programs in C++ and Python. |
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Moradillocpe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Topics Covered
+
+```text
+ ┌─────────────┐   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
+ │   Linear    │ → │ Non-Linear  │ → │  Algorithm  │ → │ Algorithmic │
+ │ Structures  │   │ Structures  │   │  Analysis   │   │ Strategies  │
+ └─────────────┘   └─────────────┘   └─────────────┘   └─────────────┘
+  Arrays, Lists,     Trees, Graphs     Big-O, Timing,    Memoization,
+  Stacks, Queues                       Binary Search     Bottom-Up DP
+```
+
+
+## 📫 Contact
+
+- 🐙 GitHub: Moradillocpe ((https://github.com/Moradillocpe))
+- 📧 Email: qemoradillo@tip.edu.ph
+
+<p align="center">
+ 
