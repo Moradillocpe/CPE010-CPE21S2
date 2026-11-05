@@ -23,7 +23,7 @@ Hi! I am Eunice E. Moradillo, a Computer Engineering student at Technological In
   <img src="https://img.shields.io/badge/Student-Eun-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Student: Eun"/>
   <img src="https://img.shields.io/badge/Program-Computer%20Engineering-0ea5e9?style=for-the-badge" alt="Program"/>
   <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
 </p>
 
 ```text
